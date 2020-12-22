@@ -12,11 +12,9 @@ Printing to the `csv` the
 
 The output in the `csv` will be:
 
-`
+```
 Title Subtitle Time
-
 ---
-
 Basket-ball - Nanterre / Bursa 5e journée. Groupe D 17:00
 Premier League World Mag Foot 19:00
 Pépite RMC Sport Doc Sport 19:30
@@ -26,4 +24,4 @@ Premier League World Mag Foot 22:45
 Transversales Mag Foot 23:15
 Transversales Mag Foot 00:45
 Transversales Mag Foot 02:00
-`
+```
